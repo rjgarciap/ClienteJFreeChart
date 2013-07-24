@@ -11,8 +11,8 @@
 
 	<scm>
 		<connection>scm:git:git://github.com/rjgp1993/ClienteJFreeChart.git</connection>
-		<url>https://github.com/rjgp1993/ClienteJFreeChart</url>
-		<developerConnection>scm:git:https://rjgp1993@github.com/rjgp1993/ClienteJFreeChart.git</developerConnection>
+		<url>scm:git:git@github.com:rjgp1993/ClienteJFreeChart.git</url>
+		<developerConnection>scm:git:git@github.com:rjgp1993/ClienteJFreeChart.git</developerConnection>
 	</scm>
 	
 	<build>
