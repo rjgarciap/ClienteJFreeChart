@@ -10,7 +10,7 @@
 
 
 	<scm>
-		<connection>scm:git:git:rjgp1993/ClienteJFreeChart.git</connection>
+		<connection>scm:git:git@github.com:rjgp1993/ClienteJFreeChart.git</connection>
 		<url>scm:git:git@github.com:rjgp1993/ClienteJFreeChart.git</url>
 		<developerConnection>scm:git:git@github.com:rjgp1993/ClienteJFreeChart.git</developerConnection>
 	</scm>
